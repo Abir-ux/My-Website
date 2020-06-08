@@ -1,0 +1,134 @@
+/*font-family: 'Piedra', cursive;*/
+/*font-family: 'Varela Round', sans-serif;*/
+
+
+#made1{
+    width: 60px;
+}
+.m1{
+    color: white;
+}
+#made2{
+    border-radius: 100px;
+}
+#my_picture {
+    margin:auto;
+    padding-top: 50px;
+    display: block;
+    width: 300px;
+    margin-top: 75px;
+    padding-top: 100px;
+    
+}
+#head{
+    background-image: linear-gradient(#1a1a1a,#2c3e50);
+    height: 835px;
+    color: white;
+    text-shadow: 1px 1px 10px #000;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.774);
+}
+#MyName{
+    text-align: center;
+    font-family: 'Piedra', cursive;
+    font-size: 70px;  
+}
+.name{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+#header_social_links{
+    text-align: center;
+}
+#bulb{
+    margin: auto;
+    width: 220px;
+    display: block;
+    
+}
+#About-Me{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+#about_me{
+    text-align: center;
+    height: 290px;
+    font-size: 22px;
+    border-bottom: 3px solid;
+    border-color: rgba(0, 0, 0, 0.397);
+       
+}
+#should{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+}
+#know{
+    font-size: 55px;
+}
+#ca2{
+    border-left: 5px solid;
+    border-color: gray;
+    
+}
+#ro1{
+    height: 1100px;
+    border-bottom: 5px solid;
+    border-color: gray;
+}
+#ca1{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+#made11{
+    margin-right: 15px;
+    width: 110px;
+    border-radius: 60px;
+}
+#made12{
+    margin-left: 15px;
+    width: 110px;
+    border-radius: 60px;
+}
+#made13{
+    margin-right: 15px;
+    width: 110px;
+    border-radius: 60px;
+}
+#made14{
+    margin-left: 15px;
+    width: 110px;
+    border-radius: 60px;
+}
+
+
+#made15{
+    width: 170px;
+    border-radius: 60px;
+}
+#made16{
+    width: 170px;
+    border-radius: 60px;
+}
+
+
+#made20{
+    font-size: 38px;
+    text-align: center;
+    font-family: 'Piedra', cursive;
+    
+}
+#made21{
+    width: 180px;
+    border-radius: 60px;
+    
+}
+#made22{
+    width: 200px;
+    border-radius: 60px;
+}
+
+.card{
+    margin-left: 30px;
+    margin-top: 100px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.452);
+}
